@@ -19,10 +19,6 @@ For this exercise, you'll be building the classic nintendo game, DUCK HUNT, usin
 - USE MDN JAVASCRIPT!
 - TALK TO YOUR CLASSMATES!
 
-## Submission
-
-This assignment is due **Sunday, August 12th by 11:00 PM**
-
 Please find some screenshots of what you'll be creating. Feel free to get creative with how you style your interface.
 
 ![Screen-shot](./images/duck-hunt-part-1.png) - Part 1
