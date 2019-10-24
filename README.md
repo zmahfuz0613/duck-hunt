@@ -3,7 +3,6 @@
 # Duck Hunt
 
 1. Fork into your account
-1. Create a feature branch
 1. Clone down to your machine
 1. Submit a Pull Request when complete
 
