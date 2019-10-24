@@ -10,7 +10,7 @@
 
 ![](https://media.giphy.com/media/TWxWXeuF8rIhG/giphy.gif)
 
-For this exercise, you'll be building the classic nintendo game, DUCK HUNT, using HTML, CSS, and JavaSCript.
+For this exercise, you'll be building the classic nintendo game, DUCK HUNT, using HTML, CSS, and JavaScript.
 
 ## Exercise
 
